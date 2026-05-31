@@ -2,6 +2,9 @@
 ## Project Overview
 Based on Kaggle office supplies e-commerce data, sales and operations analysis is conducted from three perspectives: time, customer, and region, and extends to simple forecasting and customer operation recommendations. Technically, pandas is mainly used for cleaning and aggregation, and matplotlib/seaborn is used for visualization.
 In terms of data preprocessing, only the necessary type conversion was made: Order Date and Ship Date were converted to dates, a df_raw was kept for basic cleaning, and each analysis module started with df_raw.copy() to avoid interfering with each other.
+This HTML version of the notebook provides a fully rendered, read‑only view of the E-commerce-data-analysis project, including all code, visualizations, and key insights, without requiring Jupyter or any local setup.
+👉 Static HTML report for customer sales trend:  
+[Salestrend_customer.html](Salestrend_customer.html)
 ## Key Findings
 
 **Overall Sales Trends:**
