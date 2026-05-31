@@ -5,6 +5,7 @@ In terms of data preprocessing, only the necessary type conversion was made: Ord
 This HTML version of the notebook provides a fully rendered, read‑only view of the E-commerce-data-analysis project, including all code, visualizations, and key insights, without requiring Jupyter or any local setup.
 👉 Static HTML report for customer sales trend:  
 [Salestrend_customer.html](Salestrend_customer.html)
+To view the report, please click **Download** on the top right and then open the file in your browser.
 ## Key Findings
 
 **Overall Sales Trends:**
